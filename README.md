@@ -1,7 +1,5 @@
-# hello-world
-Test of Github functionality
 
-Greetins!
+Greetings!
 
 This is Jiezi on the internet. He has been a fan of all the fancinating new things.
 Jiezi is a beginer in data science, and also an amateur in history.
